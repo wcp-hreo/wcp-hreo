@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wcp-hreo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ubuntu
